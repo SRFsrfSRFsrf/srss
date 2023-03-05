@@ -1,0 +1,61 @@
+*
+{
+    background-image: url('多山.jpg');
+}
+#head1
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: auto;
+    margin: 0px;
+    margin-top: 0px;
+}
+#body1
+{
+    background-image: url('宇宙2.jpg');
+    width: 500px;
+    height: 158px;
+    color: rgb(255, 0, 43);
+    font-size: 40px;
+    text-align: center;
+    padding: 0px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+#body2
+{
+    color: rgb(44, 54, 54);
+    text-align: center;
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+}
+#body3
+{
+    display: flex;
+    padding: 0px;
+    width: 300px;
+    height: 30px;
+    justify-content: space-around;
+}
+#body31
+{
+    color: rgb(81, 16, 223);
+}
+#body32
+{
+    color: rgb(217, 16, 43);
+}
+#body33
+{
+    color: azure;
+}
+#body34
+{
+    color: chartreuse;
+}
+#body3 button:hover
+{
+    color: black;
+}
